@@ -5,11 +5,22 @@ Coming Soon.
 
 ## Overview 
 
+## Table of Contents
+
+1. 100 Days of Code Overview
+2. Computer Science Introduction
+3. General CS
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+
 ### 100 Days of Code Challenge
 Info about challenge here.
 
 ### Computer Science
-
-## Table of Contents
 
 ## Credits
